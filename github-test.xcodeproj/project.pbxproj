@@ -488,6 +488,7 @@
 				CE06DE301E67B62F0020DC98 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CE06DE311E67B62F0020DC98 /* Build configuration list for PBXNativeTarget "github-testTests" */ = {
 			isa = XCConfigurationList;
@@ -496,6 +497,7 @@
 				CE06DE331E67B62F0020DC98 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CE06DE341E67B62F0020DC98 /* Build configuration list for PBXNativeTarget "github-testUITests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +506,7 @@
 				CE06DE361E67B62F0020DC98 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
